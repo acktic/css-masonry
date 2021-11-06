@@ -4,7 +4,6 @@ Create a masonry view of multiple elements
 # use
 
 `document.querySelector('.container').classList.add('flexbox')`<br>
-`document.querySelectorAll('.item').forEach((a) => a.classList.add('flexbox'))`<br>
 
 # note
 
