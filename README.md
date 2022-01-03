@@ -7,7 +7,7 @@ Create a masonry view of multiple elements
 
 # note
 
-Container must be taller than the tallest column
+Container must be taller than the tallest column  
 edit: mobile browsers use `min-height: 100%` instead of `flex-basis: 100%`
 
 # link
